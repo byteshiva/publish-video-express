@@ -2,6 +2,7 @@
 logs
 *.log
 npm-debug.log*
+*.mp4
 
 # Runtime data
 pids
